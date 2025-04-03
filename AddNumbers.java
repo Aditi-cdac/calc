@@ -19,6 +19,13 @@ public class AddNumbers {
         // Display the result
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
 
+        // Perform multiplication
+        int product = num1 * num2;
+
+       // Display the multiplication result
+       System.out.println("The product of " + num1 + " and " + num2 + " is: " + product);
+
+
         // Close the scanner
         scanner.close();
     }
