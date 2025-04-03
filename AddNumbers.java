@@ -25,6 +25,13 @@ public class AddNumbers {
         // Display the subtraction result
         System.out.println("The difference between " + num1 + " and " + num2 + " is: " + difference);
 
+        // Perform multiplication
+        int product = num1 * num2;
+
+       // Display the multiplication result
+       System.out.println("The product of " + num1 + " and " + num2 + " is: " + product);
+
+
 
         // Close the scanner
         scanner.close();
